@@ -6,7 +6,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 enableRobotsTXT = true
 Paginate = 12
-copyright = "PubHub"
+copyright = "PubHub.org.uk"
 
 theme = "github.com/theNewDynamic/gohugo-theme-ananke"
 
@@ -30,6 +30,5 @@ theme = "github.com/theNewDynamic/gohugo-theme-ananke"
   #stackoverflow
   featured_image = "/beer-2166004_1920.jpg"
   favicon = "/favicon.ico"
-  description = "Because saving money is thirsty work"
   background_color_class = "bg-black"
-
+  recent_posts_number = 0
