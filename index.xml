@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Because saving money is thirsty work on PubHub</title>
-    <link>https://tuck1s.github.io/pubhub-org-uk/</link>
+    <link>https://pubhub.org.uk/</link>
     <description>Recent content in Because saving money is thirsty work on PubHub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>PubHub.org.uk</copyright><atom:link href="https://tuck1s.github.io/pubhub-org-uk/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>PubHub.org.uk</copyright><atom:link href="https://pubhub.org.uk/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
